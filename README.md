@@ -1,2 +1,2 @@
-# SwiftyWiringPi
-This is a wrapper of WiringPi library in Swift
+# WiringPi
+This is a bridge library for WiringPi
